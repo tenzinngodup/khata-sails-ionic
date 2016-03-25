@@ -42,11 +42,10 @@ module.exports.connections = {
   ***************************************************************************/
   someMysqlServer: {
     adapter: 'sails-mysql',
-    host: 'localhost',
-    user: 'root',
-    password: 'my_password',
-    database: 'khatadb_sails',
-    charset   : 'utf8'
+    host: '',
+    user: '',
+    assword: '',
+     database: ''
   },
 
   /***************************************************************************
